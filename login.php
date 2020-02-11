@@ -1,11 +1,13 @@
 <?php
 //Add login.php to github -- xichen-ups
-$username = "chenxiliang";
-$password = "";
-$email = "";
+$password = "mypassword";
+$username = "Admin";
+
+function getPw(){
+	echo "Hello!";
 
 
+}
 
+?>
 
-
->

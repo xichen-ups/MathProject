@@ -5,6 +5,7 @@ $username = "Admin";
 
 function getPw(){
 	echo "Hello!";
+	echo "World";
 
 
 }

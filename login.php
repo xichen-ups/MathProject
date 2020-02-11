@@ -3,12 +3,11 @@
 $password = "mypassword";
 $username = "Admin";
 
-
 function getPw(){
 	echo "Hello!";
 
 
 }
 
-
 ?>
+
